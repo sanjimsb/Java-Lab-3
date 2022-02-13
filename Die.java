@@ -1,5 +1,3 @@
-import java.util.Scanner;
-
 public class Die {
     protected String dieType;
     protected int numberOfSides;
